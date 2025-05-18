@@ -32,7 +32,7 @@ A RESTful API for performing core NLP tasks such as sentiment analysis, named en
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/nlp-api.git
+git clone https://github.com/Lucifer88484/Natural-Language-Processing-API.git
 cd nlp-api
 ```
 
